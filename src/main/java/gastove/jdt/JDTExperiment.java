@@ -9,6 +9,6 @@ public class JDTExperiment {
     }
 
     public int doSomeThings(String val, long diffVal) throws RuntimeException {
-        return val + diffVal;
+        return 5;
     }
 }
